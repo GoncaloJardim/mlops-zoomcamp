@@ -55,7 +55,7 @@ What's the dimensionality of this matrix (number of columns)?
 * 2
 * 155
 * 345
-* 515
+* 515 
 * 715
 
 
@@ -80,7 +80,7 @@ Now let's apply this model to the validation dataset (February 2022).
 
 What's the RMSE on validation?
 
-* 7.79
+* 7.79cd 
 * 12.79
 * 17.79
 * 22.79

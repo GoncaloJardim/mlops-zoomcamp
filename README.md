@@ -222,4 +222,9 @@ Thanks to the course sponsors for making it possible to create this course
 </p>
 
 
+#### Ideas For posts:
+
+Roberto's Ideas:
+
+1. Junior Series (as a Junior profile, detail )
 
