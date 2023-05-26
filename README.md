@@ -1,6 +1,6 @@
 # MLOps Zoomcamp Course - Gonçalo Jardim 
 
-**Repo where I follow MLops Zoomcamp and to be further for HomeWork & Final Porject assignements.**
+**Repo where I follow MLops Zoomcamp contents and where I publish HomeWork & Final Project assignements.**
 
 <p align="center">
   <a href="https://airtable.com/shrCb8y6eTbPKwSTL" target="_blank">
