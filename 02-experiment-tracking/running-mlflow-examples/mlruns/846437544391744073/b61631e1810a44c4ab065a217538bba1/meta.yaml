@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/c/Users/crocs/OneDrive%20-%20Universidade%20de%20Lisboa/Ambiente%20de%20Trabalho/Data%20Science%20Courses/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/846437544391744073/b61631e1810a44c4ab065a217538bba1/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '846437544391744073'
+lifecycle_stage: active
+run_id: b61631e1810a44c4ab065a217538bba1
+run_name: industrious-deer-743
+run_uuid: b61631e1810a44c4ab065a217538bba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685432008384
+status: 1
+tags: []
+user_id: crocs
